@@ -1,0 +1,172 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/Pjb0wPK/howard-bouchevereau-nrb-Z80-NVx1o-unsplash.jpg",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "A premium ultrabook with stunning display and powerful performance.",
+        "specification": [
+        "13.4-inch FHD+ Display",
+        "Intel Core i7 11th Gen",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 11 Pro"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 2,
+        "product_title": "Apple iPhone 14",
+        "product_image": "https://i.ibb.co.com/gZFv887/maxim-hopman-Hin-rzh-Od-Ws-unsplash.jpg",
+        "category": "MacBook",
+        "price": 1099.00,
+        "description": "The latest iPhone with A16 Bionic chip and advanced camera system.",
+        "specification": [
+        "6.1-inch Super Retina XDR Display",
+        "128GB Storage",
+        "Dual 12MP Cameras",
+        "iOS 16",
+        "Face ID"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 3,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/Z2dVwPS/ivan-shilov-Ki-AYZZjpjk-Q-unsplash.jpg",
+        "category": "Smart Watches",
+        "price": 299.99,
+        "description": "A stylish smartwatch with health monitoring and long battery life.",
+        "specification": [
+        "1.4-inch AMOLED Display",
+        "GPS & Heart Rate Monitor",
+        "Water Resistant",
+        "Bluetooth Connectivity",
+        "7-Day Battery Life"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 4,
+        "product_title": "Apple MacBook Air M2",
+        "product_image": "https://i.ibb.co.com/LpV3WVB/jose-gil-Uar8mh-f0k-A-unsplash.jpg",
+        "category": "MacBook",
+        "price": 1199.00,
+        "description": "The lightweight and powerful MacBook with the M2 chip.",
+        "specification": [
+        "13.6-inch Liquid Retina Display",
+        "Apple M2 Chip",
+        "8GB Unified Memory",
+        "256GB SSD",
+        "macOS Ventura"
+        ],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": 5,
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co.com/Qn2qyZ7/priscilla-du-preez-Jb-Av3n-AKOtc-unsplash.jpg",
+        "category": "Phones",
+        "price": 399.99,
+        "description": "Noise-canceling headphones with superior sound quality and comfort.",
+        "specification": [
+        "Adaptive Noise Cancellation",
+        "30-Hour Battery Life",
+        "Quick Charging",
+        "Bluetooth 5.2",
+        "Touch Controls"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 6,
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/6DVXBLH/jotform-aix-OEgco-U6c-unsplash.jpg",
+        "category": "Phones",
+        "price": 1299.99,
+        "description": "A flagship phone with cutting-edge camera and performance.",
+        "specification": [
+        "6.8-inch Dynamic AMOLED Display",
+        "Snapdragon 8 Gen 2",
+        "12GB RAM",
+        "256GB Storage",
+        "108MP Quad Camera System"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 7,
+        "product_title": "Logitech MX Master 3S",
+        "product_image": "https://i.ibb.co.com/ySwxTZJ/rahul-chakraborty-xs-Gxht-Asf-SA-unsplash.jpg",
+        "category": "Accessories",
+        "price": 99.99,
+        "description": "A precision mouse for professionals with ergonomic design.",
+        "specification": [
+        "Ultrafast Scrolling",
+        "Ergonomic Design",
+        "USB-C Charging",
+        "Customizable Buttons",
+        "Bluetooth and USB Receiver"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 8,
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://i.ibb.co.com/WtBf6hw/saulo-mohana-D-k-OW7i-HNnw-unsplash.jpg",
+        "category": "Phones",
+        "price": 899.99,
+        "description": "Google's flagship phone with advanced AI features and great camera.",
+        "specification": [
+        "6.7-inch QHD+ OLED Display",
+        "Google Tensor G2 Chip",
+        "12GB RAM",
+        "128GB Storage",
+        "Triple Rear Cameras"
+        ],
+        "availability": true,
+        "rating": 4.6
+    }  ,
+    {
+        "product_id": 9,
+        "product_title": "Fitbit Charge 5",
+        "product_image": "https://i.ibb.co.com/5WV1VLj/infino-photography-URl-Xm2-Kx6u-I-unsplash.jpg",
+        "category": "Smart Watches",
+        "price": 149.99,
+        "description": "An advanced fitness tracker with health and sleep monitoring.",
+        "specification": [
+        "1.04-inch AMOLED Display",
+        "Heart Rate & SpO2 Monitor",
+        "Sleep Tracking",
+        "GPS",
+        "Up to 7-Day Battery Life"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 10,
+        "product_title": "Apple AirPods Pro 2",
+        "product_image": "https://i.ibb.co.com/jvmnwBN/daniel-korpai-y-Au40-E-Zy-ZI-unsplash.jpg",
+        "category": "Accessories",
+        "price": 249.99,
+        "description": "The latest AirPods with active noise cancellation and improved sound.",
+        "specification": [
+        "Active Noise Cancellation",
+        "Transparency Mode",
+        "MagSafe Charging Case",
+        "Spatial Audio",
+        "6 Hours Listening Time"
+        ],
+        "availability": false,
+        "rating": 4.9
+    }
+    ]
